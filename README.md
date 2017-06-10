@@ -1,3 +1,5 @@
+> ATTENTION : la World Trust Foundation ne REMPLACE SURTOUT PAS l'encyclopédique libre [Movilab](http://movilab.org/index.php?title=Accueil) dédiée aux connaissance tiers-lieux. Elle n'a pour seul objectif... l'essaimage et l'enrichissement de l'exposition Fork The World.
+
 # Ressources
 
 Ce répertoire contient les ressources spécifiques à la **World Trust Foundation**, organisation (de fait) constituée pour créer l'exposition Tiers-Lieux 'Fork The World' à l'occasion de la [Biennale de Design de Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017) (9 mars-9 avril 2017). 
