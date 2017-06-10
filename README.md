@@ -6,6 +6,6 @@ Ce répertoire contient les ressources spécifiques à la **World Trust Foundati
 
 ## Logos
 
-Le logo (provisoire) est dérivé de l'icone [Code Fork](https://thenounproject.com/search/?q=fork&creator=1763063&i=800022) réalisée par [ProSymbols](https://thenounproject.com/prosymbols/), hébergée sur Noon Project, régi par les termes de la licence CC BY 3.0 US.
+Le logo (provisoire) est dérivé de l'icone [Code Fork](https://thenounproject.com/search/?q=fork&creator=1763063&i=800022) réalisée par [ProSymbols](https://thenounproject.com/prosymbols/) (Noon Project, licence CC BY 3.0 US).
 
 
